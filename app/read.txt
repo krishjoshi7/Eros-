@@ -1,0 +1,9 @@
+so this is a basic understanding how this works 
+
+
+ Python library that are used :-
+
+ pyttsx3 :-
+ 
+  It is a Python library which will help us to convert text format 
+  into speech format.
